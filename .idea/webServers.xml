@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="245bd4a2-e56f-45d8-8940-195ca71a666c" name="iotelFTP" url="http://iotel.ir">
+        <fileTransfer host="iotel.ir" port="21" rootFolder="/tomcat/webapps" username="publish">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
